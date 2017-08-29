@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73b2e16e-6cbd-44a5-b95d-0fe6fd51a314" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Test/GuanajovenTest2.java" afterPath="$PROJECT_DIR$/src/test/java/Test/GuanajovenTest2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,9 +18,12 @@
       <file leaf-file-name="GuanajovenTest2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Test/GuanajovenTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="444">
+              <caret line="161" column="0" lean-forward="true" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+              <folding>
+                <element signature="e#6505#6506#0" expanded="true" />
+                <element signature="e#6548#6549#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,11 +83,11 @@
         <option value="$PROJECT_DIR$/src/test/java/Pages/PageInicioSesion.java" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/PageInicioSessionGoogleCreateAccount.java" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/PageInicioSesionGooleBasicInformation.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Test/GuanajovenTest2.java" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/PageInicioSesionGoogleCreateAccount.java" />
         <option value="$PROJECT_DIR$/src/test/java/Test/GuanajovenLoginGoogleTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/PageInicioSesionGoogleAddAccount.java" />
         <option value="$PROJECT_DIR$/src/test/java/Test/GuanajovenCodigoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test/GuanajovenTest2.java" />
       </list>
     </option>
   </component>
@@ -571,7 +573,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2533">
           <caret line="151" column="12" lean-forward="false" selection-start-line="151" selection-start-column="12" selection-end-line="152" selection-end-column="60" />
-          <folding />
+          <folding>
+            <element signature="e#6505#6506#0" expanded="true" />
+            <element signature="e#6548#6549#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -605,7 +610,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2533">
           <caret line="151" column="12" lean-forward="false" selection-start-line="151" selection-start-column="12" selection-end-line="152" selection-end-column="60" />
-          <folding />
+          <folding>
+            <element signature="e#6505#6506#0" expanded="true" />
+            <element signature="e#6548#6549#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -971,9 +979,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Test/GuanajovenTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="444">
+          <caret line="161" column="0" lean-forward="true" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+          <folding>
+            <element signature="e#6505#6506#0" expanded="true" />
+            <element signature="e#6548#6549#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
