@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="TestingActivo">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/TestingActivo.jar!/TestingActivo" />
+      <root url="jar://$PROJECT_DIR$/lib/TestingActivo.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
