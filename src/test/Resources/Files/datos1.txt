@@ -1,0 +1,6 @@
+Registrar,omar-salas@outlook.com,1234567890,1234567890,SARO941105HGTLDM08,37128
+Iniciar,normal,omar-salas@outlook.com,1234567890
+Iniciar,google,franxavbm@gmail.com,Underline93,BUMF931206HDFJNR07,37208
+
+Iniciar,normal,omar-salas@outlook.com,1234567890
+Iniciar,normal,franxavbm@gmail.com,Underline93
